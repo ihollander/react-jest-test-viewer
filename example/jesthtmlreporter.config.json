@@ -1,0 +1,5 @@
+{
+  "pageTitle": "Test Report",
+  "outputPath": "public/test.html",
+  "includeFailureMsg": true
+}
